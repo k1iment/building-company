@@ -8,7 +8,7 @@
 }
 
 html {
-    background-image: url(img/index-background.jpg);
+    background-image: url(../img/index-background.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
